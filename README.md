@@ -12,4 +12,4 @@
 - ⚡ Hobbies: **Drone Flying**, **Hiking** and **Cycling**.
 
 
- <img src="https://i0.wp.com/junilearning.com/wp-content/uploads/2020/06/python-programming-language.webp?fit=1920%2C1920&ssl=1" width="100" height="100"> <img src="https://www.macworld.com/wp-content/uploads/2023/01/learn_java_on_mac.jpg?quality=50&strip=all" width="200" height="80">
+ <img src="https://i0.wp.com/junilearning.com/wp-content/uploads/2020/06/python-programming-language.webp?fit=1920%2C1920&ssl=1" width="100" height="100"> <img src="https://www.macworld.com/wp-content/uploads/2023/01/learn_java_on_mac.jpg?quality=50&strip=all" width="200" height="100">
